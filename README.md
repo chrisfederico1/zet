@@ -1,2 +1,2 @@
 # zet
-My Personal Zettelkasten
+My Personal Zettelkasten.
