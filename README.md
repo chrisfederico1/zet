@@ -1,0 +1,2 @@
+# zet
+My Personal Zettelkasten
