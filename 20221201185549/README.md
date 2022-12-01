@@ -54,8 +54,8 @@ newlines or whitespace.
 
 `$ sudo apt-get install xclip`
 
-`# Downloads and installs xclip. If you don't have `apt-get`, you might need 
-to use another installer (like `yum`)`
+`# Downloads and installs xclip. If you don't have apt-get, you might need 
+to use another installer (like yum)`
 
 `$ xclip -selection clipboard < ~/.ssh/id_ed25519.pub`
 `# Copies the contents of the id_ed25519.pub file to your clipboard`
@@ -70,3 +70,5 @@ click Settings.
 6) Paste your key into the "Key" field.
 7) Click Add SSH key.
 8) If prompted, confirm your GitHub password.
+
+    #zettel #notes #git #SSH
