@@ -8,7 +8,7 @@ you access it. For example cd to /mnt/whatver.
 * Here is an example entry in fstab
 
 `//192.168.1.100/data	/mnt/data	cifs	uid=0,credentials=/home/dude/.smb,
-iocharset=utf8,x-systemd.automount	0	2
+iocharset=utf8,x-systemd.automount	0	2`
 
 
     #zettle #fstab #systemd #linux
