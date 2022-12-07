@@ -4,7 +4,7 @@
 * Install it for arch `pacman -S stow` . Its in the arch repositories.
 * Command `stow --adopt -nvt ~ directory`
 
-* Explain the arguments:
+* Explain the arguments
 	**	--adopt is to perform the stow action
 	**	-n Go into simulation mode no actions will be performed
 		-v is verbose
