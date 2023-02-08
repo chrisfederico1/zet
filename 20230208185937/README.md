@@ -1,4 +1,4 @@
-** Using du command
+## Using du command
 
 1. The du command is usefull for displaying how much space directories and files
 take up 
