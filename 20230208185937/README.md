@@ -3,9 +3,9 @@
 1. The du command is usefull for displaying how much space directories and files
 take up 
 1. Here is an example :
-```du --all --human-readable \
+`du --all --human-readable \
 --one-file-system \
---max-depth=1 /var```
+--max-depth=1 /var`
 - --all (-a): Print all files and folders.
 - --human-readable (-h): Print sizes in big chunks rather than in bytes 
 (for instance, 1K instead of 1024).
@@ -25,6 +25,6 @@ as much output.
 -k1 -rh as input. For example, here's what I get when I run a command to 
 sort the output by the first column (capacity)
 
-   #zet #du #linux
+   #zet #du #linux #Commands
 
 
